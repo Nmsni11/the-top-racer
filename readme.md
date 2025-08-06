@@ -29,10 +29,10 @@
 - ![alt text](photos/image1.png) 
 - ![alt text](photos/image2.png) 
 - ![alt text](photos/image3.png)
-- ![alt text](photos/1.png)
-- ![alt text](photos/2.png)
-- ![alt text](photos/3.png)
-- ![alt text](photos/4.png)
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
+- ![alt text](photos/4.jpg)
 
 ---
 
@@ -54,4 +54,5 @@
 |12 | Power Switch + Fuse Holder       | Safety cutoff and protection                | $15        | — |
 
 **Total = $297.88**
+
 
