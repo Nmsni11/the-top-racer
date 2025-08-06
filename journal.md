@@ -65,6 +65,7 @@ created_at: "14/7/2025"
 
 ---
 ## Images
-- ![alt text](image1.png) 
-- ![alt text](image2.png) 
-- ![alt text](image3.png) 
+- ![alt text](photos/image1.png) 
+- ![alt text](photos/image2.png) 
+- ![alt text](photos/image3.png) 
+
