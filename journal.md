@@ -69,3 +69,10 @@ created_at: "14/7/2025"
 - ![alt text](photos/image2.png) 
 - ![alt text](photos/image3.png) 
 
+diagram present
+
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
+- ![alt text](photos/4.jpg)
+  
