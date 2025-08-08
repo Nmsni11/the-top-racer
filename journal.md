@@ -16,7 +16,7 @@ created_at: "14/7/2025"
 
 I have set out to do this project already having one thing in mind: speed under control. Continuing with my last idea of Robot Racer, I did my research on what could be further enhanced in its capabilities and what I would have changed. I started drawing a neater, more practical design with an optimized placement and distribution of the motors along with improved balance. I also resolved to replace the motor driver with a DRV8835 which has a small physical footprint and higher current rating in terms of efficiency. In case of the motors, I chose high-torque planetary gear pattern motors to provide smooth operating capabilities at high power. For power, I chose a LiPo battery backed with a BMS, as protection. At the end of the session, I complete part list and all the component orders. As the plan was implemented even in this early point of view, it gave a new drive to push forward.
 
-![alt text](the_top_racer_breaks.png)
+![alt text](photos/the_top_racer_breaks.png)
 
 ---
 
@@ -25,7 +25,7 @@ I have set out to do this project already having one thing in mind: speed under 
 
 I started to design the chassis 3D model today. It had to be light weight and rigid enough to support possible vibrations and speed. I created a high infill bottom and printed a mock up to see fit and size. As I was fitting parts together on the computer screen I realized that the motor holes were slightly out of alignment since my first measurements were not precise. I have updated the Fusion 360 model and made a new virtual prototype. The corrected model was well aligned in holes and improved in the distribution of the weights. It is like nothing comes in the world of digital design when you get a print of the material you have created.
 
-![alt text](the_top_racer_chassis.png)
+![alt text](photos/the_top_racer_chassis.png)
 
 ---
 
@@ -34,7 +34,7 @@ I started to design the chassis 3D model today. It had to be light weight and ri
 
 Today I worked on adding the motors to the 3D model. I attached rubber wheels to the gear motors to get higher grip and traction properties in simulation virtually. I designed DRV8835 motor driver in simulations as well, and linked digitally to the Arduino Due layout. The Due offers greater I/O flexibility and faster processing than the Uno and that will be important later when I do finally move to real-time sensor data. In order to emulate the logic of early movement, I added a dummy motor control script and tested the behavior of response virtually. I made some motor cable clips to route the cables safely, as well; this will be at the physical build step, of course.
 
-![alt text](the_top_racer_motor_clips.png)
+![alt text](photos/the_top_racer_motor_clips.png)
 
 ---
 
@@ -117,4 +117,5 @@ Even in 3D, clean wiring is important. I re-turned the internal cable layout to 
 The last spurt! I plugged all systems in the last model which was designed in 3D, calculated the center of mass of the robot and carried out a complete simulation of an oval track of 10 meters. In different lighting scenarios, the Top Racer proved to be 98 percent accurate in line following abilities and 95 percent in obstacle following. Approximate max speed? About 2.3 m/s. Seeing it execute tight corners, intelligently decelerate and automatically correct itself gave me a notion of how much this design had improved. I have not physically constructed it but the background is well put and solid. The virtual groundwork is something of which I am very proud, and, soon this will apply in the real machine.
 
 ![alt text](photos/4.jpg)  
-![alt text](the_top_racer_wheel.png)
+![alt text](photos/the_top_racer_wheel.png)
+
