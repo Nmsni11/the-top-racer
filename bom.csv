@@ -1,6 +1,6 @@
 # Component,Description,Est. Price,Link
 Arduino Due 32-bit board,Faster execution and more I/O than Uno,$61,https://store.arduino.cc/products/arduino-due
-DRV8835 Dual Motor Driver,Smooth, efficient control of two motors,$16.88,https://thepihut.com/products/pololu-drv8835-dual-motor-driver-kit-for-raspberry-pi
+DRV8835 Dual Motor Driver/Smooth/ efficient control of two motors,$16.88,https://thepihut.com/products/pololu-drv8835-dual-motor-driver-kit-for-raspberry-pi
 Planetary Gear DC Motors x2,High torque, reliable speed control,$35,
 HC-SR04 Precision Ultrasonic Sensor,Better distance readings for obstacle avoidance,$18,
 IR Line-Following Sensors x2,Helps track lane markings,$23,
@@ -13,3 +13,4 @@ LiPo Balance Charger,For safe and efficient recharging,$25,
 Power Switch + Fuse Holder,Ensures safe operation and quick shutdown,$15,
 ,,,
 Total,,**$297.88**,
+
